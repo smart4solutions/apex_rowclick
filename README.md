@@ -1,5 +1,7 @@
 # apex_rowclick
 apex_rowclick is a small dynamic action designed to reside on the global page as an "on-load" dynamic action.
+# Downloading the plugin
+You can download the plugin on the [demo site](https://apex.oracle.com/pls/apex/f?p=43484:210 "Demo site on apex.oracle.com")
 # Using the plugin
 1. Import the plug-in
 2. Add an "onload" dynamic action to the page where you want to have the behaviour (this could be page 0)
