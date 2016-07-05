@@ -16,7 +16,7 @@
   },
   "repository" : {
     "type" : "git",
-    "url" : "https://github.com/smart4solutions/apex_rowclick.git"
+    "url" : "https://github.com/smart4solutions/apex_rowclick"
   },
  "oracle" : {
     "versions" : ["11.2.0.1", "12.1.0.1"],
