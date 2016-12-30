@@ -1,6 +1,6 @@
 {
   "name" : "smart4solutions rowclick",
-  "version" : "1.0",
+  "version" : "1.01",
   "description" : "Adds rowclick behavior to Interactive and Classic Reports. You can download on the demo site.",
   "keywords" : ["rowclick"],
   "homepage" : "https://github.com/smart4solutions/apex_rowclick",
