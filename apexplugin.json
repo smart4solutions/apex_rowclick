@@ -25,7 +25,7 @@
       "plugin" : {
         "internalName" : "NL.SMART4SOLUTIONS.ROWCLICK",
         "type" : "dynamic action",
-        "demo" : "https://apex.oracle.com/pls/apex/f?p=43484:210",
+        "demo" : "https://apex.oracle.com/pls/apex/f?p=SMART4SOLUTIONS:210",
         "previewImage" : "https://raw.githubusercontent.com/smart4solutions/apex_rowclick/master/screenshot-1.gif"
       }
     }
