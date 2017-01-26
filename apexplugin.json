@@ -1,6 +1,6 @@
 {
   "name" : "smart4solutions rowclick",
-  "version" : "1.1",
+  "version" : "1.5",
   "description" : "Adds rowclick behavior to Interactive and Classic Reports. You can download on the demo site. Version 1.5 supports new events like right-click and double-click next to the default left-click.",
   "keywords" : ["rowclick"],
   "homepage" : "https://github.com/smart4solutions/apex_rowclick",
@@ -19,9 +19,9 @@
     "url" : "https://github.com/smart4solutions/apex_rowclick"
   },
  "oracle" : {
-    "versions" : ["12.1.0.2", "11.2.0.4"],
+    "versions" : ["11.2.0.1", "12.1.0.1"],
     "apex" : {
-      "versions" : ["5.0", "5.1"],
+      "versions" : ["5.0.0"],
       "plugin" : {
         "internalName" : "NL.SMART4SOLUTIONS.ROWCLICK",
         "type" : "dynamic action",
